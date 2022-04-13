@@ -7,7 +7,7 @@
 
 >https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/CascadiaCode.zip
 
-# Microsoft.PowerShell_profile.ps1
+# Microsoft.PowerShell_profile.ps1 ( $PROFILE )
 >Import-Module -Name Terminal-Icons \
 >Set-PSReadLineOption -PredictionSource History \
 >Set-PSReadLineOption -PredictionViewStyle ListView \
