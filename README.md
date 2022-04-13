@@ -3,6 +3,10 @@
 
 >Install-Module PSReadLine -Force -SkipPublisherCheck
 
+>Install-Module -Name Terminal-Icons
+
+>https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/CascadiaCode.zip
+
 # Microsoft.PowerShell_profile.ps1
 >Import-Module -Name Terminal-Icons \
 >Set-PSReadLineOption -PredictionSource History \
